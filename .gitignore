@@ -1,0 +1,7 @@
+day1/_trial_temp
+__pycache__/
+
+
+# file: ~/.gitignore_global
+.DS_Store
+.idea
